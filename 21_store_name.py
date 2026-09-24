@@ -1,0 +1,3 @@
+name = "Sumit"
+
+print(name)
